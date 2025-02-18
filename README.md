@@ -4,7 +4,7 @@
 
 Публичный репозиторий реализованного проекта по разработке telegram бота
 
-![holoBot](https://gifyu.com/image/bS9Iy)
+![holoBot](https://github.com/user-attachments/assets/ded1a5c5-08ae-4088-8cfe-bb610f951ce9)
 
 Разработан telegram бот для научной конференции ХОЛОЭКСПО Наука и Практика с использованием следующих технологий:
 - node-telegram-bot-api: библиотека для создания Telegram-ботов на Node.js. Она предоставляет API для взаимодействия с Telegram Bot API, позволяя отправлять сообщения, обрабатывать команды и события.
